@@ -15,7 +15,7 @@ The applications needed include:
 
 Labview 2016 Or least
 Arduino IDE
-Lifa
+Lifa <BR>
 Lvifa BASE
 Visa
 For Lifa and Lvifa Base can be downloaded here
