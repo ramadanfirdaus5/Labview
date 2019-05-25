@@ -32,7 +32,8 @@ Lvifa BASE
 Visa
 
 For Lifa and Lvifa Base can be downloaded here
-<<<<<<<<<<<<<<<<<<--------------------------------------------------------------------------------------------------------->>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<------------------------------------------------------------------------------------>>>>>>>>>>>>>>>>>>
+
 After all the components are available, the next thing is to make a room prototype, here we make a room with the size of 17X17 cm by placing an incandescent lamp in the middle of the room which serves as the temperature effector of the system. sensor inside, for flexing sensors you can place as you like in this case we store it right behind the propeller.
 
 To set the rotational speed of the DC motor It takes a driver motorbike that is connected to Arduino, the motor driver must be given an input voltage of 5v and 12v for a voltage of 5V we take from Pin Arduino While 12 comes from LiPo battery
