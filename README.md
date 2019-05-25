@@ -31,7 +31,7 @@ In designing electronic systems or hardware components needed include:
 
 ->Visa
 
-For Lifa and Lvifa Base can be downloaded here
+For Lifa and Lvifa Base can be downloaded Master Program.rar
 <<<<<<<<<<<<<<<<<<------------------------------------------------------------------------------------>>>>>>>>>>>>>>>>>>
 
 After all the components are available, the next thing is to make a room prototype, here we make a room with the size of 17X17 cm by placing an incandescent lamp in the middle of the room which serves as the temperature effector of the system. sensor inside, for flexing sensors you can place as you like in this case we store it right behind the propeller.
@@ -66,7 +66,7 @@ pin GND Sensor lm35 --------------- >>> Arduino GND Pin
 
 For the step of making the program there are several stages including by making P and D controllers, to more clearly be able to visit the OJS Unikom page, with the Telekontran sub journal or click here https://ojs.unikom.ac.id/index.php/telekontran
 
-Or the full version program can be downloaded here, the master program
+Or the full version program can be downloaded here, the main program
 
 --------------//////////////////////////---------------------------
 Steps to trial the system:
