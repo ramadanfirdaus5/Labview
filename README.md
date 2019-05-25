@@ -7,29 +7,29 @@ n making PID-based room temperature control systems using Labview there is a des
 
 In designing electronic systems or hardware components needed include:
 
-Arduino Uno
+->Arduino Uno
 
-L298N Motor Driver
+->L298N Motor Driver
 
-Dc With Propeller Motor
+->Dc With Propeller Motor
 
-Incandescent lamps
+->Incandescent lamps
 
-Personal Computer / Laptop / PC
+->Personal Computer / Laptop / PC
 
-Battery LiPo
+->Battery LiPo
 
-The applications needed include:
+----The applications needed include:
 
-Labview 2016 Or least
+->Labview 2016 Or least
 
-Arduino IDE
+->Arduino IDE
 
-Lifa <BR>
+->Lifa <BR>
   
-Lvifa BASE
+->Lvifa BASE
 
-Visa
+->Visa
 
 For Lifa and Lvifa Base can be downloaded here
 <<<<<<<<<<<<<<<<<<------------------------------------------------------------------------------------>>>>>>>>>>>>>>>>>>
@@ -61,3 +61,25 @@ pin VCC Sensor lm35 --------------- >>> 3.3 Pin Arduino
 pin lm35 Sensor Data --------------- >>> Pin A0 Arduino
 
 pin GND Sensor lm35 --------------- >>> Arduino GND Pin
+
+------------------///////////////////////////------------------------
+
+For the step of making the program there are several stages including by making P and D controllers, to more clearly be able to visit the OJS Unikom page, with the Telekontran sub journal or click here https://ojs.unikom.ac.id/index.php/telekontran
+
+Or the full version program can be downloaded here, the master program
+
+--------------//////////////////////////---------------------------
+Steps to trial the system:
+
+1.starting with uploading the firmware Lvifa_Base into Arduino
+
+2.Enter the values of Kp, Ki, and Kd on the part
+
+3.Enter the value of the set point or the desired temperature
+
+4.Turn on the incandescent lamp
+
+5. Connect Arduino with computer
+
+6. run the Labview program
+See what happened
